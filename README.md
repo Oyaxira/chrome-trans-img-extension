@@ -1,0 +1,1 @@
+# Chrome Image Translation Extension
